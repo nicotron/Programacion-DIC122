@@ -5,8 +5,9 @@ Este repositorio contiene la **información general del curso**, que se dicta en
 
 Las secciones vigentes ofrecidas este semestre, **junto a sus calendarizaciones, evaluaciones y documentos específicos** son las siguientes:
 
-1. [Sección 1](https://github.com/sergiomajluf/programacion) - profesor Sergio **Majluf**
-2. [Sección 2](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
+
+1. [Sección 1](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
+2. [Sección 2](https://github.com/sergiomajluf/programacion) - profesor Sergio **Majluf**
 3. [Sección 3](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco **Zamorano**
 
 
@@ -53,7 +54,9 @@ El código con el que trabajaremos en el curso responde a la lógica de _[Códig
 
 Por la naturaleza de la asignatura y de Processing, el lenguaje de programación utilizado en el curso, los estudiantes encontrarán fácilmente referencias de códigos que podrán obtener de Internet, en diversas fuentes.
 
-El uso de estas fuentes está permitido, en tanto exista una comprensión del estudiante respecto a qué función cumple, y cómo pera dicho código. Se espera además que **siempre** exista atribución a la fuente original de dicho material.
+El uso de estas fuentes está permitido, en tanto exista una comprensión del estudiante respecto a qué función cumple, y cómo opera dicho código. Se espera además que **siempre** exista atribución a la fuente original de dicho material.
+
+Para más información, consultar el Instructivo de Integridad Académica en la Facultad de Diseño.
 
 
 
