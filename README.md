@@ -5,16 +5,16 @@ Este repositorio contiene la **información general del curso**, que se dicta en
 
 Las secciones vigentes ofrecidas este semestre, **junto a sus calendarizaciones, evaluaciones y documentos específicos** son las siguientes:
 
-1. [Sección 1](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Sergio Majluf
-2. [Sección 2](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Nicolás Troncoso
-3. [Sección 3](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco Zamorano
+1. [Sección 1](https://github.com/sergiomajluf/programacion) - profesor Sergio **Majluf**
+2. [Sección 2](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
+3. [Sección 3](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco **Zamorano**
 
 
 
 ## Descripción del Curso
 En este curso que se dicta en el ciclo de Bachillerato y pertenece a la línea 'Representación y Medios, el estudiante aprende los **fundamentos y conocimientos básicos de la programación y pensamiento computacional**, para ejecutar ejercicios simples comprendiendo la lógica del lenguaje de códigos. El alumno entiende el rol que juega la computación en la resolución de problemas y aprecia el uso de los principios fundamentales del diseño modular y abstracto en variados contextos.
 
-El programa oficial de la asignatura puede ser [descargado en este PDF](https://github.com/disenoudd/Programacion-DIC122/DIC122_Programación.pdf).
+El programa oficial de la asignatura puede ser [descargado en este PDF](https://github.com/disenoudd/Programacion-DIC122/raw/master/DIC122_Programaci%C3%B3n.pdf).
 
 ## Competencias
 Junto con los conocimientos introductorios al pensamiento computacional, este curso desarrolla en los estudiantes las habilidades o competencias de **Eficiencia**, **Observación y conceptualización** y **Dominio de Herramientas tecnológicas y procesos de producción**. El desarrollo de dichas competencias es parte del modelo educativo de la Facultad de Diseño.
@@ -60,7 +60,7 @@ El uso de estas fuentes está permitido, en tanto exista una comprensión del es
 ## Bibliografía
 ### Bibliografía Obligatoria:
 1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org)
-2.	Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
+   2.Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
 
 ### Bibliografía Complementaria:
 1.	Processing Foundation. Descargar Processing. Recuperado: 7 de Mayo 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
