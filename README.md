@@ -1,10 +1,10 @@
-# Programacion-DIC122
+# Programación (DIC122)
 Programa y actividades de la asignatura Programación DIC122, de la Facultad de Diseño UDD
 
 Este repositorio contiene la información general del curso, que se dicta en diferentes semesteres y secciones. Las secciones vigentes de este semestre, y sus calendarizaciones y documentos específicos son las siguientes:
-1. Sección 1 - profesor NA
-2. Sección 1 - profesor NA
-3. Sección 1 - profesor NA
+1. [Sección 1](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor NA
+2. [Sección 2](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor NA
+3. [Sección 3](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor NA
 
 ## Descripción del Curso
 En este curso el alumno aprende los fundamentos y conocimientos básicos de la programación y pensamiento computacional, para ejecutar ejercicios simples comprendiendo la lógica del lenguaje de códigos. El alumno entiende el rol que juega la computación en la resolución de problemas y aprecia el uso de los principios fundamentales del diseño modular y abstracto en variados contextos.
