@@ -53,7 +53,12 @@ El código con el que trabajaremos en el curso responde a la lógica de _[Códig
 
 Por la naturaleza de la asignatura y de Processing, el lenguaje de programación utilizado en el curso, los estudiantes encontrarán fácilmente referencias de códigos que podrán obtener de Internet, en diversas fuentes.
 
-El uso de estas fuentes está permitido, en tanto exista una comprensión del estudiante respecto a qué función cumple, y cómo pera dicho código. Se espera además que **siempre** exista atribución a la fuente original de dicho material.
+El uso de estas fuentes está permitido, en tanto exista:
+* Una comprensión del estudiante respecto a qué función cumple, y cómo opera dicho código.
+* **Siempre** exista atribución a la fuente original de dicho material, eplicitado en el código mismo.
+* Apropriación responsable, el código usado debe haber sido modificado, remezclado lo suficienta para que no constituya un plagio.
+
+La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguiran los protocolos establecidos en la Intergridad Academica.
 
 
 
