@@ -1,10 +1,11 @@
-# Programación (DIC122)
+# Calendario de entregas Tareas y ejercicios
+Las fechas de cada tarea y ejercicio se deben revisar en la calendarización específica de cada sección. Este listado de tareas es sólo referencial.
 
-## Calendario de entregas
+Ver calendario de tareas de la sección:
+- Troncoso - profesor Nicolás Troncoso
+- Majluf - [calendario sección 2](https://github.com/sergiomajluf/Programacion-20172S2/blob/master/Entregas.md)
+- Zamorano - profesor Francisco Zamorano
 
-# Tareas y ejercicios
-
-## Calendario de entregas Programación (DIC122)
 
 « volver [al inicio](https://github.com/disenoudd/Programacion-DIC122/)
 
