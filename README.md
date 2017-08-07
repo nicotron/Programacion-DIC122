@@ -58,7 +58,7 @@ El uso de estas fuentes está permitido, en tanto exista:
 * **Siempre** exista atribución a la fuente original de dicho material, eplicitado en el código mismo.
 * Apropriación responsable, el código usado debe haber sido modificado, remezclado lo suficienta para que no constituya un plagio.
 
-La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](https://github.com/disenoudd/Programacion-DIC122/raw/master/INSTRUCTIVO DE INTEGRIDAD  ACADÉMICA_diseño UDD.pdf) de la Facultad de Diseño.
+La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](https://github.com/disenoudd/Programacion-DIC122/raw/master/INSTRUCTIVO_DE_INTEGRIDAD_ACADÉMICA_diseño_UDD.pdf) de la Facultad de Diseño.
 
 
 
@@ -66,6 +66,7 @@ La práctica de plagio no será tolerada y considerada una falta grave. De suced
 ### Bibliografía Obligatoria:
 1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org)
 2.Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
+3.[Referencia de Processing](https://processing.org/reference/). Documentación en línea recuperado 7 de Agosto de 2017.
 
 ### Bibliografía Complementaria:
 1.	Processing Foundation. Descargar Processing. Recuperado: 7 de Mayo 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
