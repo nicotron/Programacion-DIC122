@@ -6,7 +6,7 @@ Este repositorio contiene la **información general del curso**, que se dicta en
 Las secciones vigentes ofrecidas este semestre, **junto a sus calendarizaciones, evaluaciones y documentos específicos** son las siguientes:
 
 
-1. [Sección ?](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
+1. [Sección 5 y 6](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
 2. [Sección 2 y 3](https://github.com/sergiomajluf/Programacion-20172S2) - profesor Sergio **Majluf**
 3. [Sección ?](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco **Zamorano**
 
@@ -65,9 +65,9 @@ La práctica de plagio no será tolerada y considerada una falta grave. De suced
 ## Bibliografía
 ### Bibliografía Obligatoria:
 1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org)
-2.Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
-3.[Referencia de Processing](https://processing.org/reference/). Documentación en línea recuperado 7 de Agosto de 2017.
+2.	Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
+3.	[Referencia de Processing](https://processing.org/reference/). Documentación en línea recuperado 7 de Agosto de 2017.
 
 ### Bibliografía Complementaria:
 1.	Processing Foundation. Descargar Processing. Recuperado: 7 de Mayo 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
-   2.Programación Creativa con Processing. Recuperado: 7 de Mayo 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
+2.	Programación Creativa con Processing. Recuperado: 7 de Mayo 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
